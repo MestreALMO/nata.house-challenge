@@ -22,7 +22,7 @@
 </details>
 
 ## About
-Challenge as it was described:
+The [challenge](https://www.notion.so/Technical-test-nata-house-b41bd08b949d4cf194a18322b28bf09b):
 
 Using the Star Wars API available at [https://swapi.dev/](https://swapi.dev/), your application must return, for a given user-inputted distance in mega lights (MGLT), how many stops each ship has to make in order to complete a journey.
 
